@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Cameron 👋
+### 📉Data analyst seeking an opportunity to build my career in a high-performance environment where I can collaborate with and learn from industry professionals 📈
+I turn raw, complex data into actionable business insights. Driven by a natural curiosity to understand data and discover patterns, I specialize in data analysis and reporting with the long-term goal of progressing into the role of a data engineer or data scientist.
 
-<!--
-**CameronPalavar/CameronPalavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools 🧰
+- SQL (PostgresSQL)
+- Advanced Microsoft Excel
+- Power BI
+- SPSS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do 📊
+- Exploratory data analysis
+- Data visualisation and storytelling
+- SQL modeling
+- A/B testing and statistics
